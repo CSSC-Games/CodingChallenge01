@@ -34,9 +34,17 @@ aside{
 	color : #f2bb13; 
 	font-size: 150%;
 	margin-top: 0px; 
-	font-weight : bold; 		
+	margin-left:5.5px;
+	font-weight : bold;
+padding-left:15px;	
 }
 
+table
+{
+	position: relative; 
+	margin-left : 25%; 
+	
+}
 H4 {
 	position: relative;
 	font-size: 250%;
