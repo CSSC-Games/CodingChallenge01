@@ -1,0 +1,123 @@
+body{
+
+		background-attachment:fixed;
+		background-size:cover;
+        background-color: #252e38;
+}
+.cool{
+    background-color:rgba(242, 187, 19, 1.0);;
+	height:60%;
+	width:80%;
+    border-radius: 10px;	
+    position:relative;
+    margin-top:1%;
+	margin-bottom:5%;
+    margin-left:10%;
+    box-shadow:0px 6px 90px 0px;
+		  }
+aside{
+	position:static;
+	margin-top:-90%;
+}
+#first{
+	position:relative;
+	margin-top:2%;
+	width: 70px;
+}
+#second{
+	position:relative;
+	margin-top:2%;
+	width:70px;
+}
+#exp{
+	position: relative;
+	color : #f2bb13; 
+	font-size: 150%;
+	margin-top: 0px; 
+	font-weight : bold; 		
+}
+
+H4 {
+	position: relative;
+	font-size: 250%;
+	text-align: center;
+	top : 20px; 
+	 
+}
+#ranking
+{
+	color : #f2bb13; 
+}
+
+li {
+	position: relative;
+	font-family : serif, sans-serif, monospace; 
+	margin-left: 30px; 
+	color : black;
+	font-size: 140%;	
+}
+ p {
+	position: relative;
+	color : black;
+	font-size: 140%;
+	margin-left : 30px;
+	margin-top: 0px; 
+} 
+
+.explication{
+	position: relative;
+	font-family : serif, sans-serif, monospace; 
+	margin-left: 30px; 
+	color : black;
+	font-size: 120%;	
+}
+
+
+table
+{
+	position: relative;
+	font-family : serif, sans-serif, monospace; 
+	color : black;
+	font-size: 95%;		
+}
+
+#bon-code
+{
+	position: relative;
+	color : black;
+	font-size: 150%;
+	margin-left : 750px;
+	margin-top: 0px; 
+	font-weight : bold; 	
+}
+
+#expanded{
+	position: relative;
+	color : black;
+	font-size: 150%;
+	margin-left : 20px;
+	margin-top: 0px; 
+	font-weight : bold; 	
+	
+}
+table
+{
+	position: relative;
+	color : white;
+	font-size: 150%;
+	margin-left : 25%;
+	margin-top: 0px; 
+	font-weight : bold; 	
+}
+td
+{
+	margin-left : 5%; 
+	
+}
+.logo-class
+{ 
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
